@@ -3,7 +3,7 @@
 #### Full-stack Software Engineer
 I am currently a student at the Flatiron school where I am studying Software Engineering. My background is in Arts Education and Arts Management and I am excited to put my new skills to work! I am also a classical musician (oboist) and travel enthusiast. 
 
-Skills: JS / REACT / JS / HTML / CSS
+Skills: JS / REACT / RUBY / RUBY on RAILS / HTML / CSS
 
 - 🔭 I’m currently working on a deep dive into Custom SQL queries 
 - 🌱 I’m currently learning Ruby on Rails 
