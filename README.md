@@ -1,6 +1,9 @@
 
-### Hi there 👋, my name is Josh
+### Hi there 👋, my name is Josh Hawks
 #### Full-stack Software Engineer
+
+![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg)
+
 I am currently a student at the Flatiron school where I am studying Software Engineering. My background is in Arts Education and Arts Management and I am excited to put my new skills to work! I am also a classical musician (oboist) and travel enthusiast. 
 
 Skills: JS / REACT / RUBY / RUBY on RAILS / HTML / CSS
