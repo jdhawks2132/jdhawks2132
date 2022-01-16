@@ -8,8 +8,8 @@ I am currently a student at the Flatiron school where I am studying Software Eng
 
 Skills: JS / REACT / RUBY / RUBY on RAILS / HTML / CSS
 
-- 🔭 I’m currently working on a deep dive into Custom SQL queries 
-- 🌱 I’m currently learning Ruby on Rails 
+- 🔭 I’m currently working on BassoonGuru - my Phase 5 Capstone Project! 
+- 🌱 I’m currently learning Redux Toolkit / RTK Query
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I can play  10+ instruments 
