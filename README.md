@@ -6,13 +6,17 @@
 
 I am currently a student at the Flatiron school where I am studying Software Engineering. My background is in Arts Education and Arts Management and I am excited to put my new skills to work! I am also a classical musician (oboist) and travel enthusiast. 
 
-Skills: JS / REACT / RUBY / RUBY on RAILS / HTML / CSS
+Skills: JS / REACT / RUBY / RUBY on RAILS / REDUX / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on BassoonGuru - my Phase 5 Capstone Project! 
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I can play  10+ instruments 
+- ⚡ Fun fact: I can play  10+ instruments
+
+[LinkedIn](https://www.linkedin.com/in/joshuahawks1/)
+
+[Blog](https://medium.com/@jdhawks)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jdhawks2132)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joshua-hawks-7bb474104/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/joshua.hawks.75)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MrGrauwyler)  
