@@ -9,7 +9,7 @@ I am currently a student at the Flatiron school where I am studying Software Eng
 Skills: JS / REACT / RUBY / RUBY on RAILS / HTML / CSS
 
 - 🔭 I’m currently working on BassoonGuru - my Phase 5 Capstone Project! 
-- 🌱 I’m currently learning Redux Toolkit / RTK Query
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I can play  10+ instruments 
