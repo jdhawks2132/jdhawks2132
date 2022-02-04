@@ -8,6 +8,8 @@ Full-stack Software Engineer and graduate of the Flatiron School. My background 
 
 Skills: JS / REACT / RUBY / RUBY on RAILS / REDUX / HTML / CSS / SCSS
 
+[Portfolio Site](https://jdhawks2132.github.io/hawksdev)
+
 - 🔭 I’m currently working on creating an online learning platform for music educators.
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything! I am an open book! 
