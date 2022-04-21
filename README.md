@@ -10,8 +10,8 @@ Skills: JS / REACT / RUBY / RUBY on RAILS / REDUX / HTML / CSS / SCSS
 
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
-- 🔭 I’m currently working on creating an online learning platform for music educators.
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently creating internal apps for TxSSC
+- 🌱 I’m currently learning about authentication options in Rails 7 
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I can play  10+ instruments
