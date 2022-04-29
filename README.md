@@ -11,7 +11,7 @@ Skills: JS / REACT / RUBY / RUBY on RAILS / REDUX / HTML / CSS / SCSS
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
 - 🔭 I’m currently creating internal apps for TxSSC
-- 🌱 I’m currently learning about authentication options in Rails 7 
+- 🌱 I’m currently learning about Rails 7 and 😍 Svelte/SvelteKit 😍 
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: I can play  10+ instruments
