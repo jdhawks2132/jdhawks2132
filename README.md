@@ -6,12 +6,13 @@
 
 Full-stack Software Engineer at the Texas School Safety Center and a Teaching Assistant for Washington University's Software Engineering Bootcamp. I am graduate of the Flatiron School with a background in Arts Education and Arts Management. 
 
-Skills: JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / CSS / SCSS / SQL / MySQL / PostreSQL / MongoDB / Firebase
+#### Skills:
+
+JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / CSS / SCSS / SQL / MySQL / PostreSQL / MongoDB / Firebase
 
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
-- 🔭 I’m currently creating internal and externam apps for TxSSC
-- 🌱 Learning more about MERN Stack
+- 🔭 I’m currently creating internal and external apps for TxSSC
 - 🌱 I’m currently learning about Rails 7 and Svelte/SvelteKit 😍 
 - 💬 Ask me about anything! I am an open book! 
 - 😄 Pronouns: He / Him 
