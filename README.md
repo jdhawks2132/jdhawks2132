@@ -4,9 +4,9 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg)
 
-Full-stack Software Engineer at the Texas School Safety Center and graduate of the Flatiron School with a background in Arts Education and Arts Management. I am also a classical musician (oboist) and travel enthusiast. 
+Full-stack Software Engineer at the Texas School Safety Center and a Teaching Assistant for Washington University's Software Engineering Bootcamp. I am graduate of the Flatiron School with a background in Arts Education and Arts Management. 
 
-Skills: JS / REACT / RUBY / RUBY on RAILS / REDUX / HTML / CSS / SCSS
+Skills: JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / CSS / SCSS / SQL / MySQL / PostreSQL / MongoDB / Firebase
 
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
