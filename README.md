@@ -8,7 +8,7 @@ Full-stack Software Engineer at the Texas School Safety Center and a Teaching As
 
 #### Skills:
 
-JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / CSS / SCSS / SQL / MySQL / PostreSQL / MongoDB / Firebase
+JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / CSS / SCSS / MySQL / PostreSQL / MongoDB / Firebase
 
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
