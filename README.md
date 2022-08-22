@@ -3,6 +3,7 @@
 #### Full-stack Software Engineer
 
 <div style='display: flex; justify-content: center'>
+  
 ![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,7 +23,9 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
 </div>
+
 Full-stack Software Engineer at the Texas School Safety Center and a Teaching Assistant for Washington University's Software Engineering Bootcamp. I am graduate of the Flatiron School with a background in Arts Education and Arts Management. 
 
 #### Skills:
