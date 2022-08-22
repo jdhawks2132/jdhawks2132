@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Josh Hawks
 #### Full-stack Software Engineer
 
-<div style='display: flex; justify-content: center'>
+<div align='center'>
   
 ![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
