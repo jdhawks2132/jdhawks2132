@@ -1,6 +1,7 @@
-
-## Hi there 👋, my name is Josh Hawks
-### Full-stack Software Engineer
+<div align='center'>
+# Hi there 👋, my name is Josh Hawks
+## Full-stack Software Engineer
+</div>
 
 <div align='center'>
   
