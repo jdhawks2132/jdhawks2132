@@ -5,9 +5,10 @@
   
 </div>
 
+![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/hawksdev/blob/main/public/HawksDev.jpg?raw=true)
+
 <div align='center'>
   
-![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/hawksdev/blob/main/public/HawksDev.jpg?raw=true)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
