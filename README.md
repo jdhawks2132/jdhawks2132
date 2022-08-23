@@ -2,7 +2,6 @@
 <div align='center'>
   
 ![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/hawksdev/blob/main/public/HawksDev.jpg?raw=true)
-![wings banner](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg?raw=true)
   
 </div>
 
@@ -52,8 +51,4 @@ JavaScript / ReactJS / Ruby / Ruby on Rails / NodeJS / Express / Redux / HTML / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhawks2132&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!---
-jdhawks2132/jdhawks2132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![wings banner](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg?raw=true)
