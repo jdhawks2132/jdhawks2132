@@ -2,6 +2,7 @@
 <div align='center'>
   
 ![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/hawksdev/blob/main/public/HawksDev.jpg?raw=true)
+![wings banner](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg?raw=true)
   
 </div>
 
