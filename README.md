@@ -30,8 +30,6 @@
 
 Full-stack Software Engineer at the Texas School Safety Center and a Teaching Assistant for Washington University's Software Engineering Bootcamp. I am graduate of the Flatiron School with a background in Arts Education and Arts Management. 
 
-
-<div align='center'>
   
 [Portfolio Site](https://jdhawks2132.github.io/hawksdev)
 
@@ -45,7 +43,6 @@ Full-stack Software Engineer at the Texas School Safety Center and a Teaching As
 
 [My Blog](https://medium.com/@jdhawks)
   
-</div>
 
 <div align='center'>
   
