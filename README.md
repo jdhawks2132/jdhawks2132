@@ -32,7 +32,7 @@
 Full-stack Software Engineer at the Texas School Safety Center and a Teaching Assistant for Washington University's Software Engineering Bootcamp. I am graduate of the Flatiron School with a background in Arts Education and Arts Management. 
 
   
-[Portfolio Site](https://svelte-portfolio-psi.vercel.app/)
+[Portfolio Site](https://www.joshuahawks.dev/)
 
 - 🔭 I’m currently creating internal and external apps for TxSSC
 - 🌱 I’m currently learning about Rails 7 and Svelte/SvelteKit 😍 
