@@ -1,7 +1,7 @@
 
 <div align='center'>
   
-![I am GitHub Readme Generator's creator](https://github.com/jdhawks2132/hawksdev/blob/main/public/HawksDev.jpg?raw=true)
+![laptop image](https://github.com/jdhawks2132/jdhawks2132/blob/main/laptop.png?raw=true)
   
 </div>
 
