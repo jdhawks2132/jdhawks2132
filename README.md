@@ -30,47 +30,40 @@ I enjoy turning complex requirements into calm, maintainable software — and I 
 ---
 
 ### What I’m working on
-- Designing and maintaining **large Rails applications** serving internal staff and the public
-- Modernizing legacy systems (Rails upgrades, asset pipelines, auth rewrites)
-- Building **React & SvelteKit frontends** where they make sense
-- Shipping compliance-driven features with real reporting and audit needs
-- Collaborating closely with design, security, and program teams
+- Maintaining and modernizing Ruby applications spanning Sinatra through Rails 8
+- Designing and maintaining large Rails applications serving internal staff and the public
+- Building React frontends where they make sense
+- Shipping compliance-driven features with real reporting and audit requirements
 
 ---
 
 ### Tech I use (and actually ship)
 - **Backend:** Ruby, Rails 6–8, Sidekiq, ActiveRecord, REST APIs
 - **Frontend:** React, SvelteKit, Vite, Tailwind CSS
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, MongoDB
 - **Infra & Ops:** Linux (RHEL/Alma), Nginx, systemd, CI/CD
 - **Other:** MJML, OAuth/SAML, background jobs, data exports, reporting
 
 ---
 
 ### Outside of work
-- Teaching Assistant for Washington University’s Software Engineering Bootcamp
 - Former arts educator with a background in arts management
 - Multi-instrumentalist (10+ instruments 🎶)
+- Pickleball and Tennis enthusiast
 - Always curious, always learning
 
 ---
 
 ### Find me around the web
-- 🌐 **Portfolio:** https://www.joshuahawks.dev  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/joshuahawks1  
-- ✍️ **Writing:** https://medium.com/@jdhawks  
 
 <div align="center">
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg)](https://github.com/jdhawks2132)
-&nbsp;&nbsp;
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/joshuahawks1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhawks2132&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[GitHub](https://github.com/jdhawks2132) ·
+[LinkedIn](https://www.linkedin.com/in/joshuahawks1) ·
+[Portfolio](https://www.joshuahawks.dev) ·
+[Writing](https://medium.com/@jdhawks)
 
 </div>
-
----
 
 ![wings banner](https://github.com/jdhawks2132/jdhawks2132/blob/main/Hawks%20Banner.jpg?raw=true)
 
