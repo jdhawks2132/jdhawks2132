@@ -37,7 +37,7 @@ I enjoy turning complex requirements into calm, maintainable software — and I 
 
 ---
 
-### Tech I use (and actually ship)
+### Tech I use
 - **Backend:** Ruby, Rails 6–8, Sidekiq, ActiveRecord, REST APIs
 - **Frontend:** React, SvelteKit, Vite, Tailwind CSS
 - **Databases:** PostgreSQL, MySQL, MongoDB
